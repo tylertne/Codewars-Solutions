@@ -1,0 +1,1 @@
+var number = (busStops) => busStops.reduce((acc,c) => acc + c[0] - c[1],0)
