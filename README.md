@@ -1,1 +1,1 @@
-Solutions from daily Codewars coding challenges
+Solutions from daily Codewars coding challenges.
